@@ -1,5 +1,4 @@
 node_modules/**/*
-!node_modules/metro-config/src/dafaults/blacklist.js
 .expo/*
 npm-debug.*
 *.jks
