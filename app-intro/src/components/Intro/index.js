@@ -1,6 +1,5 @@
 import React from 'react';
 import LottieView from 'lottie-react-native';
-// import { Text } from 'react-native';
 import {
   Container,
   IntroText,

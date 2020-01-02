@@ -1,7 +1,7 @@
 import React from 'react';
 import { Intro } from '../../components';
 
-const animation = require('../../animations/awareness.json');
+const animation = require('../../animations/health.json');
 
 // import { View, Text, StyleSheet } from 'react-native';
 // const styles = StyleSheet.create({
